@@ -2,8 +2,8 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
-  "OOP" :  {
-    "title" : "OOP",
+  "oop" :  {
+    "title" : "oop",
     "type" : "page"
   },
   "DS" : {
