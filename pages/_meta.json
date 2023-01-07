@@ -2,10 +2,23 @@
   "index": "Introduction",
   "another": "Another Page",
   "advanced": "Advanced (A Folder)",
+  "OOP" : {
+    "title" : "OOP",
+    "type" : "page"
+  },
+  "DS" : {
+    "title" : "DS",
+    "type" : "page"
+  },
+  "DBMS" : {
+    "title" : "DBMS",
+    "type" : "page"
+  },
   "about": {
     "title": "About",
     "type": "page"
   },
+
   "contact": {
     "title": "Contact ↗",
     "type": "page",
