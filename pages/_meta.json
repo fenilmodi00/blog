@@ -1,19 +1,20 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "oop" :  {
-    "title" : "oop",
-    "type" : "page"
+  "index": {
+    "title": "Home",
+    "type": "page"
   },
-  "DS" : {
-    "title" : "DS",
-    "type" : "page"
+  "another":{
+
+   "title" :"Another Page",
+   "type" : "page"},
+
+ 
+
+  "oop": {
+    "title": "OOP",
+    "type": "page"
   },
-  "DBMS" : {
-    "title" : "DBMS",
-    "type" : "page"
-  },
+ 
   "about": {
     "title": "About",
     "type": "page"
