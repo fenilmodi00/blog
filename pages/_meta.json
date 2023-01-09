@@ -8,8 +8,6 @@
    "title" :"Another Page",
    "type" : "page"},
 
- 
-
   "oop": {
     "title": "OOP",
     "type": "page"
@@ -19,8 +17,6 @@
     "title": "About",
     "type": "page"
   },
-
-
   
     "more": {
       "title": "more",
